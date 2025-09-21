@@ -1,0 +1,150 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Aapo Alasuutari",
+    "email": "aapo.alasuutari@gmail.com",
+    "phone": "",
+    "description": "Building Nova JavaScript engine for a leaner, more focused future in JS.",
+    "webpageUrl": {
+      "url": "https://github.com/aapoalas/",
+      "wellKnown": ""
+    }
+  },
+  "projects": [
+    {
+      "guid": "nova-javascript-engine",
+      "name": "Nova JavaScript engine",
+      "description": "Nova is JavaScript engine built with a data-oriented focus, taking its design cues from the Entity-Component-Systems architecture and taking a deep and critical look at common JavaScript idioms to see what is truly important, and what can be demoted to be second class usage. The result is an engine with unbelievably low object memory footprints, promising a leaner future for JavaScript.",
+      "webpageUrl": {
+        "url": "https://trynova.dev/"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/trynova/nova/",
+        "wellKnown": "https://github.com/trynova/nova/blob/main/.well-known/funding-manifest-urls"
+      },
+      "licenses": ["spdx:MPL-2.0"],
+      "tags": ["javascript", "typescript", "interpreter"]
+    },
+    {
+      "guid": "soavec",
+      "name": "SoAVec",
+      "description": "A Rust library for creating easy and idiomatic Struct-of-Arrays vectors of user-defined structs.",
+      "webpageUrl": {
+        "url": "https://github.com/trynova/soavec/"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/trynova/soavec/",
+        "wellKnown": "https://github.com/trynova/soavec/blob/main/.well-known/funding-manifest-urls"
+      },
+      "licenses": ["spdx:MPL-2.0"],
+      "tags": ["struct-of-arrays", "vector"]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github",
+        "type": "payment-provider",
+        "address": "https://github.com/sponsors/aapoalas",
+        "description": "GitHub Sponsors"
+      },
+      {
+        "guid": "paypal",
+        "type": "payment-provider",
+        "address": "https://paypal.me/aapoalas",
+        "description": "PayPal"
+      },
+      {
+        "guid": "sepa",
+        "type": "bank",
+        "address": "",
+        "description": "Please contact me for SEPA bank transfer details."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "monthly-chip-in",
+        "status": "active",
+        "name": "Chip in",
+        "description": "Chip into Nova development.",
+        "amount": 5,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": ["github"]
+      },
+      {
+        "guid": "monthly-help-out",
+        "status": "active",
+        "name": "Help out",
+        "description": "Help out Nova development.",
+        "amount": 50,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": ["github"]
+      },
+      {
+        "guid": "monthly-focus",
+        "status": "active",
+        "name": "Buy me focus",
+        "description": "Get me out of my day job for a few days each month to focus on Nova JavaScript engine.",
+        "amount": 500,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": ["github"]
+      },
+      {
+        "guid": "monthly-wage",
+        "status": "active",
+        "name": "Pay my wage",
+        "description": "Pay my wage, enabling me to focus on Nova full-time.",
+        "amount": 5000,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": ["github"]
+      },
+      {
+        "guid": "one-time-coffee",
+        "status": "active",
+        "name": "Buy me a coffee",
+        "description": "Buy me a cup of coffee or two.",
+        "amount": 5,
+        "currency": "EUR",
+        "frequency": "one-time",
+        "channels": ["github"]
+      },
+      {
+        "guid": "one-time-food",
+        "status": "active",
+        "name": "Buy me food",
+        "description": "Help out with the groceries.",
+        "amount": 50,
+        "currency": "EUR",
+        "frequency": "one-time",
+        "channels": ["github"]
+      },
+      {
+        "guid": "one-time-focus",
+        "status": "active",
+        "name": "Buy me focus",
+        "description": "Get me out of my day job for a few days this month to focus on Nova JavaScript engine.",
+        "amount": 500,
+        "currency": "EUR",
+        "frequency": "one-time",
+        "channels": ["github"]
+      },
+      {
+        "guid": "one-time-wage",
+        "status": "active",
+        "name": "Pay my wage",
+        "description": "Pay my wage this month, enabling me to focus on Nova full-time.",
+        "amount": 5000,
+        "currency": "EUR",
+        "frequency": "one-time",
+        "channels": ["github"]
+      }
+    ],
+    "history": []
+  }
+}
