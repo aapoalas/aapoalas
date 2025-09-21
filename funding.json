@@ -18,7 +18,8 @@
       "name": "Nova JavaScript engine",
       "description": "Nova is JavaScript engine built with a data-oriented focus, taking its design cues from the Entity-Component-Systems architecture and taking a deep and critical look at common JavaScript idioms to see what is truly important, and what can be demoted to be second class usage. The result is an engine with unbelievably low object memory footprints, promising a leaner future for JavaScript.",
       "webpageUrl": {
-        "url": "https://trynova.dev/"
+        "url": "https://trynova.dev/",
+        "wellKnown": "https://trynova.dev/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/trynova/nova/",
