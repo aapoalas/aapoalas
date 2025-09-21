@@ -33,7 +33,8 @@
       "name": "SoAVec",
       "description": "A Rust library for creating easy and idiomatic Struct-of-Arrays vectors of user-defined structs.",
       "webpageUrl": {
-        "url": "https://github.com/trynova/soavec/"
+        "url": "https://github.com/trynova/soavec/",
+        "wellKnown": "https://github.com/trynova/soavec/blob/main/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/trynova/soavec/",
