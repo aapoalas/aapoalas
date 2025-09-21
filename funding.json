@@ -9,7 +9,7 @@
     "description": "Building Nova JavaScript engine for a leaner, more focused future in JS.",
     "webpageUrl": {
       "url": "https://github.com/aapoalas/",
-      "wellKnown": ""
+      "wellKnown": "https://github.com/aapoalas/aapoalas/.well-known/funding-manifest-urls"
     }
   },
   "projects": [
