@@ -56,3 +56,15 @@ A talk given at FOSDEM 2025 on how memory optimisations available to the in your
 everyday JavaScript program, and what sort of benefits you can gain.
 
 - https://archive.fosdem.org/2025/schedule/event/fosdem-2025-4391-how-to-lose-weight-optimising-memory-usage-in-javascript-and-beyond/
+
+## Out the cave, off the cliff – data-oriented design in Nova JavaScript engine
+
+A talk on how JavaScript engines implement objects internally, and how Nova
+JavaScript engine bucks the common wisdom. The talk was first given at Turku
+University's JavaScript Day on September 19th, 2025. A second version was given at
+the Sydney Remote Rust Meetup on October 15th, 2025. Neither of these talks got
+recorded due to mishaps.
+
+A third version was given at JSConf.jp on November 16th, 2025.
+
+- https://www.youtube.com/watch?v=QuJRKhySp-0
